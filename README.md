@@ -1,6 +1,5 @@
 <html>
 <head>
-    <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <span class="fa fa-star checked"></span>
@@ -231,6 +230,6 @@ textarea {
 </style>  
   <hr>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7917.753104442073!2d79.89737077341955!3d7.140271129376572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2f0171fa2d8e9%3A0x9374e0dacec393f9!2sRaddolugama%2C%20Katunayake!5e0!3m2!1sen!2slk!4v1629029162612!5m2!1sen!2slk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-<https://github.com/senuraperera47802/Skills-pf-Senura.git>
+
 
 </body>
